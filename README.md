@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning Harvard's Introduction to CS50X
 - 💞️ I’m looking to collaborate on nothing just yet.
 - 📫 How to reach me chetnajoshi22b@gmail.com
-- I am still trying to figure out how to submit labs and problem sets!
+- I am still trying to getting used to programming in CS0X
+-
 <!---
 AnshJoshi27/AnshJoshi27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
